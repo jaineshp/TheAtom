@@ -310,7 +310,7 @@ def main(argv):
 		try:
 			copy(src_file,destn_file)
 		except:
-			print "Error in copying contents from",src_data,"to",destn_file
+			print "Error in copying contents from",src_file,"to",destn_file
 	elif command_id == 3:
 		try:
 			file_name = argv[2]
