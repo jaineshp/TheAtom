@@ -1,0 +1,5 @@
+#!/bin/python
+from sys import argv
+import tfs
+
+tfs.main(argv)
