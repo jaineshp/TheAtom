@@ -1,7 +1,7 @@
 '''
 
 Simple Version Control
-	The base directory .svc contains of two files
+	The base directory .svc contains two files
 	-changes
 	-latest_version
 	The 'changes' file keeps track of the changes made, this file is modified after every valid commit.
